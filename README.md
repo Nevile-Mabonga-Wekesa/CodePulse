@@ -1,8 +1,16 @@
-#Repo archicture
+# CodePulse Repository and Environment Setup
 
-/codepulse
-├── backend/         # FastAPI + model I/O
-├── plugin/          # VS Code extension
-├── ui/              # Dashboard (React, optional)
-├── docs/
-└── scripts/
+
+# Folder Structure:
+# /codepulse
+# ├── backend/
+# │ ├── main.py
+# │ ├── database.py
+# │ └── models.py
+# ├── plugin/
+# │ ├── src/
+# │ │ ├── extension.ts
+# │ └── package.json
+# ├── ui/
+# ├── docs/
+# └── scripts/
